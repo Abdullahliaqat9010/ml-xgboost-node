@@ -1,0 +1,15 @@
+{
+	"name": "ml",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ml-xgboost": "^1.1.2"
+	}
+}
